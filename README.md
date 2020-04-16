@@ -1,0 +1,2 @@
+# bf64d80317875407c7ad4698adae40dd
+App id 64D8B-6B96D-208BD-02BC7-E81A1, version name - 1.0
